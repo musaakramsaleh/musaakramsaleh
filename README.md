@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Musa Akram Saleh</h1>
 <h3 align="center">a passionate web developer with a love for creating interactive and user-friendly websites and applications.</h3>
-
+<img align="right" alt="coding" width="400" src="![image](https://github.com/musaakramsaleh/musaakramsaleh/assets/107353878/31a7205f-7126-4647-a20a-652864bc3e6a)
+">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nkedin.com/in/musa-akram-saleh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nkedin.com/in/musa-akram-saleh/" height="30" width="40" /></a>
