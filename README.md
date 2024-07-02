@@ -1,3 +1,4 @@
+![logo](https://github.com/musaakramsaleh/musaakramsaleh/blob/main/2e21dbc0632b4fcf01b5fd6a5df40788.webp)
 <h1 align="center">Hi 👋, I'm Musa Akram Saleh</h1>
 <h3 align="center">a passionate web developer with a love for creating interactive and user-friendly websites and applications.</h3>
 <img align="right" alt="coding" width="400" src="https://i.ibb.co/LkCZ4RT/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f.gif">
